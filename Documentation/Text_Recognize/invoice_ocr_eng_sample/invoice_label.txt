@@ -1,0 +1,44 @@
+./invoice_ocr/img\X00016469612_0.txt	TAN WOON YANN
+./invoice_ocr/img\X00016469612_1.txt	BOOK TA .K(TAMAN DAYA) SDN BND
+./invoice_ocr/img\X00016469612_2.txt	789417-W
+./invoice_ocr/img\X00016469612_3.txt	NO.53 55
+./invoice_ocr/img\X00016469612_4.txt	TAMAN DAYA
+./invoice_ocr/img\X00016469612_5.txt	81100 JOHOR BAHRU
+./invoice_ocr/img\X00016469612_6.txt	JOHOR.
+./invoice_ocr/img\X00016469612_7.txt	DOCUMENT NO : TD01167104
+./invoice_ocr/img\X00016469612_8.txt	DATE:
+./invoice_ocr/img\X00016469612_9.txt	25/12/2018 8:13:39 PM
+./invoice_ocr/img\X00016469612_10.txt	CASHIER:
+./invoice_ocr/img\X00016469612_11.txt	MANIS
+./invoice_ocr/img\X00016469612_12.txt	MEMBER:
+./invoice_ocr/img\X00016469612_13.txt	CASH BILL
+./invoice_ocr/img\X00016469612_14.txt	CODE/DESC
+./invoice_ocr/img\X00016469612_15.txt	PRICE
+./invoice_ocr/img\X00016469612_16.txt	DISC
+./invoice_ocr/img\X00016469612_17.txt	AMOUNT
+./invoice_ocr/img\X00016469612_18.txt	QTY
+./invoice_ocr/img\X00016469612_19.txt	RM
+./invoice_ocr/img\X00016469612_20.txt	RM
+./invoice_ocr/img\X00016469612_21.txt	9556939040116
+./invoice_ocr/img\X00016469612_22.txt	KF MODELLING CLAY KIDDY FISH
+./invoice_ocr/img\X00016469612_23.txt	1 PC
+./invoice_ocr/img\X00016469612_24.txt	*
+./invoice_ocr/img\X00016469612_25.txt	9.000
+./invoice_ocr/img\X00016469612_26.txt	0.00
+./invoice_ocr/img\X00016469612_27.txt	9.00
+./invoice_ocr/img\X00016469612_28.txt	TOTAL:
+./invoice_ocr/img\X00016469612_29.txt	ROUR DING ADJUSTMENT:
+./invoice_ocr/img\X00016469612_30.txt	0.00
+./invoice_ocr/img\X00016469612_31.txt	ROUND D TOTAL (RM):
+./invoice_ocr/img\X00016469612_32.txt	9.00
+./invoice_ocr/img\X00016469612_33.txt	CASH
+./invoice_ocr/img\X00016469612_34.txt	10.00
+./invoice_ocr/img\X00016469612_35.txt	CHANGE
+./invoice_ocr/img\X00016469612_36.txt	1.00
+./invoice_ocr/img\X00016469612_37.txt	GOODS SOLD ARE NOT RETURNABLE OR
+./invoice_ocr/img\X00016469612_38.txt	EXCHANGEABLE
+./invoice_ocr/img\X00016469612_39.txt	***
+./invoice_ocr/img\X00016469612_40.txt	***
+./invoice_ocr/img\X00016469612_41.txt	THANK YOU
+./invoice_ocr/img\X00016469612_42.txt	PLEASE COME AGAIN !
+./invoice_ocr/img\X00016469612_43.txt	9.00
